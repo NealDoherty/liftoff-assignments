@@ -8,8 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-
--![Wireframes for recipe app](https://github.com/NealDoherty/liftoff-assignments/blob/master/P3-Project_Planning/UX_Project.jpg)
+![Wireframes for recipe app](-https://github.com/NealDoherty/liftoff-assignments/blob/master/P3-Project_Planning/UX_Project.jpg)
 
 
 ### Project Tracker
