@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-![Wireframes for recipe app](P3-Project_Planning/UX_Project.jpg)
+![Wireframes for recipe app](https://github.com/NealDoherty/liftoff-assignments/blob/master/P3-Project_Planning/UX_Project.jpg)
 
 
 ### Project Tracker
